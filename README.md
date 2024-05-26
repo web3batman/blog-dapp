@@ -1,1 +1,1 @@
-# solana-blog
+# blog-dapp-solana
